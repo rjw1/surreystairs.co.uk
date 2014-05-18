@@ -1,0 +1,11 @@
+# Site settings
+title:  Surrey Stairs
+email: office@surreystairs.co.uk
+description: "Surrey Stairs"
+baseurl: ""
+url: "http://surreystairs.co.uk"
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
+exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']

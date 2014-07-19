@@ -12,3 +12,5 @@ url: "http://surreystairs.co.uk"
 markdown: redcarpet
 permalink: pretty
 exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
+gems:
+  - jekyll-sitemap
